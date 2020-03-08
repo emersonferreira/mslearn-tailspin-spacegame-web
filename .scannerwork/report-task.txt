@@ -1,0 +1,7 @@
+organization=emersonferreira-space-game-web
+projectKey=emersonferreira_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.5447
+dashboardUrl=https://sonarcloud.io/dashboard?id=emersonferreira_mslearn-tailspin-spacegame-web
+ceTaskId=AXCzCV2UHthxmgQIBskb
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXCzCV2UHthxmgQIBskb
